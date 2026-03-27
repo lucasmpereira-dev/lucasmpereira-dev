@@ -1,16 +1,38 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**lucasmpereira-dev/lucasmpereira-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Ciência da Computação
+Focado em desenvolvimento Frontend e Java
+Sempre aprendendo e evoluindo
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+* HTML
+* CSS
+* JavaScript
+* Java
+
+
+## Repositórios em destaque
+
+* 🔗 Frontend: https://github.com/lucasmpereira-dev/frontend-estudos
+* 🔗 Java: https://github.com/lucasmpereira-dev/java-estudos
+
+
+## Objetivo
+
+Desenvolver minhas habilidades como programador, evoluindo de projetos simples para aplicações mais completas e profissionais.
+
+
+## Atualmente estudando
+
+* Estruturação de páginas web
+* Lógica de programação
+* Fundamentos de Java
+
+
+## 📌 Observações
+
+Este perfil está em constante evolução, acompanhando meu progresso na área de desenvolvimento.
+
+---
